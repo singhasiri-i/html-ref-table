@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(219, 219, 219);
+}
+h1, h2 {
+    text-align: center;
+}
+.header2 {
+    color: #653399;
+}
+table {
+    border: solid 2px #9831CC;
+    width: 685px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.first_col>span {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #F5F5DB;
+}
+th {
+    background-color: #DDA0DC;
+}
+td {
+    border-top: solid 1px #9831CC;
+}
